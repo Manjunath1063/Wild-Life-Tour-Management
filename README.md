@@ -225,7 +225,7 @@ Wild_Tour/
 ## Screenshots
 
 ### Home Page
-[![Home](screenshots/home.png)](screenshots/home.png)
+[![Home](screenshots/Home.png)](screenshots/Home.png)
 
 ### User Dashboard
 [![User](screenshots/user.png)](screenshots/user.png)
